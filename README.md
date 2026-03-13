@@ -6,7 +6,7 @@ license: mit
 
 ### **Description:** 
 EEG-VJEPA is a self-supervised learning model for EEG signal analysis. It treats EEG signals as spatiotemporal sequences, leveraging both spatial and temporal information. This model uses a Vision Transformer (ViT) as the backbone to capture long-range dependencies, enabling robust representation learning from EEG data.
-(paper coming soon, arXiv version here: https://arxiv.org/abs/2507.03633)
+
 
 ### **Performance**
 
