@@ -21,7 +21,7 @@ EEG-VJEPA is a self-supervised learning model for EEG signal analysis. It treats
 **AUROC (Frozen Eval):** 87.9%
 
 ### **Usage**
-This model can be used / fine-tuned for various EEG analysis tasks, including fine-tuning for abnormal EEG classification. It is particularly effective for scenarios where spatial and temporal dependencies are critical. The code repository can be found at https://github.com/amir-hojjati/eeg-vjepa. The base model's encoder can be loaded with the pre-trained weights provided here and with the hyperparameters specificed in the paper for each model.
+This model can be used/fine-tuned for various EEG analysis tasks, including fine-tuning for abnormal EEG classification. It is particularly effective for scenarios where spatial and temporal dependencies are critical. The base model's encoder can be loaded with the pre-trained weights provided here and with the hyperparameters specified in the paper for each model.
 
 ### **Training Configuration**
 **Optimizer:** AdamW  <br />
